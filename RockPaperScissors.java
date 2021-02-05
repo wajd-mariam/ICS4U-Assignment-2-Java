@@ -1,6 +1,4 @@
 /*
-* Copyright (c) 2020
-*
 * This program lets user play Rock, Paper, Scissors game 
 * against the computer.
 *
